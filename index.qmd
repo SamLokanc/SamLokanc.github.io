@@ -1,0 +1,14 @@
+---
+title: "Sam Lokanc"
+about:
+  template: trestles
+  image: images/profile.jpg
+  image-shape: round
+
+  links:
+    - icon: linkedin
+      text: LinkedIn
+    - icon: github
+      text: GitHub
+      href: https://github.com/SamLokanc
+---
