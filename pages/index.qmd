@@ -1,5 +1,5 @@
 ---
-title: "personal-site"
+title: "My Personal Website"
 ---
 
 This is a Quarto website.

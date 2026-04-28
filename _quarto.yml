@@ -3,20 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "personal-site"
+  title: "Sam Lokanc"
   navbar:
     left:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - about.qmd
+      - href: pages/about.qmd
+        text: About
+      - href: pages/projects.qmd
+        text: Projects
+      - href: pages/resume.qmd
+        text: Resume
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+      light:
+        - flatly
+        - styles/custom-light.scss
+      dark:
+        - flatly
+        - styles/custom-dark.scss
 
 
 
