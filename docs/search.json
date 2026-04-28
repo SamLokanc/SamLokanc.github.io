@@ -7,13 +7,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A List of Projects"
-  },
-  {
     "objectID": "pages/resume.html",
     "href": "pages/resume.html",
     "title": "Resume",
@@ -21,17 +14,17 @@
     "text": "PDF of resume"
   },
   {
-    "objectID": "pages/index.html",
-    "href": "pages/index.html",
-    "title": "My Personal Website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "My Personal Website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A List of Projects"
   }
 ]
