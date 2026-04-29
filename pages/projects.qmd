@@ -1,5 +1,1 @@
----
-title: "Projects"
----
-
-A List of Projects
+## Projects

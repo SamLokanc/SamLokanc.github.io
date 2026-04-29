@@ -1,5 +1,1 @@
----
-title: "Resume"
----
-
-PDF of resume
+## Resume
