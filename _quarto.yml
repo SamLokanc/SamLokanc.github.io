@@ -13,12 +13,8 @@ website:
       - href: pages/resume.qmd
         text: Resume
 
-        
-
 format:
   html:
-    include-in-header:
-      - text: '<meta name="color-scheme" content="light dark">'
     css: styles/styles.css
     theme:
       light:
@@ -27,6 +23,6 @@ format:
       dark:
         - darkly
         - styles/custom-dark.scss
-
-
-
+    include-in-header:
+      - text: |
+          <meta name="color-scheme" content="dark light">
