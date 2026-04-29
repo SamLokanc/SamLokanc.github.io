@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
-    "title": "About",
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "A List of Projects"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Lokanc",
+    "section": "",
+    "text": "I am a Data Scientist based in Vancouver, British Columbia, Canada. I have recently graduated from the Master of Data Science program at the University of British Columbia. Prior to this, I received a Bachelor of Health Sciences from the University of Calgary.\nIn the past I have conducted research investigating the intersection of cancer and the immune system utilizing data-driven approaches. These experiences supplied me with skills that are generalizable to a wide range of exciting problems, such as wildlife conservation and epidemiology.\nFeel free to check out some of my projects (both professional and personal) as well as my resume on this website!"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Sam Lokanc",
+    "section": "",
+    "text": "I am a Data Scientist based in Vancouver, British Columbia, Canada. I have recently graduated from the Master of Data Science program at the University of British Columbia. Prior to this, I received a Bachelor of Health Sciences from the University of Calgary.\nIn the past I have conducted research investigating the intersection of cancer and the immune system utilizing data-driven approaches. These experiences supplied me with skills that are generalizable to a wide range of exciting problems, such as wildlife conservation and epidemiology.\nFeel free to check out some of my projects (both professional and personal) as well as my resume on this website!"
   },
   {
     "objectID": "pages/resume.html",
@@ -12,12 +26,5 @@
     "title": "Resume",
     "section": "",
     "text": "PDF of resume"
-  },
-  {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A List of Projects"
   }
 ]

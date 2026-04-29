@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: pages/about.qmd
-        text: About
       - href: pages/projects.qmd
         text: Projects
       - href: pages/resume.qmd
@@ -22,7 +20,7 @@ format:
         - flatly
         - styles/custom-light.scss
       dark:
-        - flatly
+        - darkly
         - styles/custom-dark.scss
 
 

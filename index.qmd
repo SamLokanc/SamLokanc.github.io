@@ -11,4 +11,14 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/SamLokanc
+    - icon: envelope
+      text: E-mail
+      href: mailto:samlokanc5@gmail.com
 ---
+
+## About
+I am a Data Scientist based in Vancouver, British Columbia, Canada. I have recently graduated from the Master of Data Science program at the University of British Columbia. Prior to this, I received a Bachelor of Health Sciences from the University of Calgary.
+
+In the past I have conducted research investigating the intersection of cancer and the immune system utilizing data-driven approaches. These experiences supplied me with skills that are generalizable to a wide range of exciting problems, such as wildlife conservation and epidemiology.
+
+Feel free to check out some of my projects (both professional and personal) as well as my resume on this website!
