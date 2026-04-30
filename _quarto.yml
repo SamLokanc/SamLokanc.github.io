@@ -26,3 +26,9 @@ format:
     include-in-header:
       - text: |
           <meta name="color-scheme" content="dark light">
+          <script>
+            document.documentElement.style.visibility = 'hidden';
+            window.addEventListener('load', () => {
+              document.documentElement.style.visibility = 'visible';
+            });
+          </script>
