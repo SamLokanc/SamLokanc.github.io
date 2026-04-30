@@ -10,7 +10,7 @@ website:
         text: Home
       - href: pages/projects.qmd
         text: Projects
-      - href: pages/resume.qmd
+      - href: pdfs/resume.pdf
         text: Resume
 
 format:
