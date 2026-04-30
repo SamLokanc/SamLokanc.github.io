@@ -17,12 +17,12 @@ format:
   html:
     css: styles/styles.css
     theme:
-      light:
-        - flatly
-        - styles/custom-light.scss
       dark:
         - darkly
         - styles/custom-dark.scss
+      light:
+        - flatly
+        - styles/custom-light.scss
     include-in-header:
       - text: |
           <meta name="color-scheme" content="dark light">

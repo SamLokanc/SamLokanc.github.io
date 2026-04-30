@@ -2,5 +2,8 @@
 title: Projects
 listing:
     type: grid
-    contents: "../projects/*.qmd"
+    categories: true
+    grid-columns: 2
+    contents: 
+        - "../projects/*"
 ---
