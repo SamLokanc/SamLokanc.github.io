@@ -1,1 +1,6 @@
-## Projects
+---
+title: Projects
+listing:
+    type: grid
+    contents: "../projects/*.qmd"
+---

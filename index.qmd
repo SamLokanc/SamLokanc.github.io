@@ -1,5 +1,6 @@
 ---
-title: "Sam Lokanc"
+title: Sam Lokanc
+
 about:
   template: trestles
   image: images/profile.jpg
@@ -16,7 +17,7 @@ about:
       href: mailto:samlokanc5@gmail.com
 ---
 
-## About
+# About
 I am a Data Scientist based in Vancouver, British Columbia, Canada. I have recently graduated from the Master of Data Science program at the University of British Columbia. Prior to this, I received a Bachelor of Health Sciences degree in Bioinformatics from the University of Calgary.
 
 In the past I have conducted research investigating the intersection of cancer and the immune system utilizing data-driven approaches. These experiences supplied me with a skillset that is generalizable to a wide range of exciting problems, such as wildlife conservation and epidemiology. 
