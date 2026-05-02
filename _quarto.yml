@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Sam Lokanc"
+  site-url: https://samlokanc.github.io/
   navbar:
     left:
       - href: index.qmd
