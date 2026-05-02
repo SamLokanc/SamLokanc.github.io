@@ -1,9 +1,0 @@
----
-title: Projects
-listing:
-    type: grid
-    categories: true
-    grid-columns: 2
-    contents: 
-        - "../projects/*"
----
