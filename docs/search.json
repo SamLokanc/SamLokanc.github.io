@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Gene alterations in inborn errors of immunity and their presence in cancers\n\n\n\nData Pipeline\n\nBash\n\nPython\n\n\n\nThis study investigated IEI-related differential gene expression by examining the somatic transcriptomes of cancers.\n\n\n\nSam Lokanc, et al.\n\n\nJan 29, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sam Lokanc",
     "section": "",
     "text": "About\nI am a Data Scientist based in Vancouver, British Columbia, Canada. I have recently graduated from the Master of Data Science program at the University of British Columbia. Prior to this, I received a Bachelor of Health Sciences degree in Bioinformatics from the University of Calgary.\nIn the past I have conducted research investigating the intersection of cancer and the immune system utilizing data-driven approaches. These experiences supplied me with a skillset that is generalizable to a wide range of exciting problems, such as wildlife conservation and epidemiology.\nFeel free to check out some of my projects (both professional and personal) as well as my resume on this website!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Gene alterations in inborn errors of immunity and their presence in cancers\n\n\n\nData Pipeline\n\nBash\n\nPython\n\n\n\nThis study investigated IEI-related differential gene expression by examining the somatic transcriptomes of cancers.\n\n\n\nSam Lokanc, et al.\n\n\nJan 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFileJanitor\n\n\n\nPython\n\nPackage\n\nData Cleaning\n\n\n\nFileJanitor is a package that cleans, standardizes, and organizes file names and folder structures. Its goal is to automate common file system tasks, so the user can keep…\n\n\n\nSam Lokanc, Sean Brown, Rabin Duran, Luis Alonso Alvarez\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nVancouver Non Market Housing Dashboard\n\n\n\nData Visualization\n\nDashboard\n\n\n\nThis dashboard displays information regarding non-market housing projects in Vancouver.\n\n\n\nSam Lokanc, Julia Zhang, Yuting Ji, Ralah Aaqil\n\n\nMar 17, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: pages/projects.qmd
+      - href: projects.qmd
         text: Projects
       - href: pdfs/resume.pdf
         text: Resume
