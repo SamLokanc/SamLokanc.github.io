@@ -1,0 +1,48 @@
+```{=html}
+<div class="quarto-listing quarto-listing-container-grid">
+  <div class="list grid quarto-listing-cols-2">
+    <% for (const item of items) { %>
+      <div class="quarto-grid-item card h-100" <%- metadataAttrs(item) %>>
+        <img src="<%- item.image %>" class="card-img-top" style="height: 240px; object-fit: cover; background-color: #FEFCEE;">
+        <div class="card-body d-flex flex-column pt-0">
+
+          <div>
+            <h4 class="card-title mb-3">
+              <%= item.title %>
+            </h4>
+
+            <% if (item.categories && item.categories.length > 0) { %>
+              <div class="d-flex flex-wrap gap-1 mb-2">
+                <% for (const cat of item.categories) { %>
+                <span class="badge bg-dark"><%= cat %></span>
+                <% } %>
+              </div>
+            <% } %>
+
+            <% if (item.description) { %>
+              <p class="card-text">
+                <%= item.description %>
+              </p>
+            <% } %>
+          </div>
+
+          <div class="mt-auto pt-3 d-flex gap-2">
+            <% if (item.deployment) { %>
+              <a href="<%- item.deployment %>" class="btn btn-light btn-lg" title="Deployment">
+                <i class="bi <%- item['deployment-icon'] || 'bi-link-45deg' %>"></i>
+              </a>
+            <% } %>
+
+            <% if (item.github) { %>
+              <a href="<%- item.github %>" class="btn btn-primary btn-lg" title="Github">
+                <i class="bi bi-github"></i>
+              </a>
+            <% } %>
+          </div>
+
+        </div>
+      </div>
+    <% } %>
+  </div>
+</div>
+```

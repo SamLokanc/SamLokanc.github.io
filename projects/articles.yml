@@ -1,10 +1,20 @@
 - title: "Gene alterations in inborn errors of immunity and their presence in cancers"
   description: "This study investigated IEI-related differential gene expression by examining the somatic transcriptomes of cancers."
   image: "/images/IEI-thumbnail.jpg"
-  path: https://pubmed.ncbi.nlm.nih.gov/41616493/
-  categories: [Data Pipeline, Bash, Python]
+  categories: [Data Pipeline, Bash, R, Python]
   date: 2026-01-29
   author: Sam Lokanc, et al.
+  deployment: https://pubmed.ncbi.nlm.nih.gov/41616493/
+  deployment-icon: "bi-file-text"
+
+- title: "Vancouver Non Market Housing Dashboard"
+  description: "This dashboard displays information regarding non-market housing projects in Vancouver."
+  image: "/images/nonmarket-housing-thumbnail.jpg"
+  categories: [Data Visualization, Dashboard]
+  date: 2026-03-17
+  author: Sam Lokanc, Julia Zhang, Yuting Ji, Ralah Aaqil
+  deployment: https://019c962d-6a7d-25ba-ce46-92dc73941290.share.connect.posit.cloud/
+  github: https://github.com/UBC-MDS/DSCI-532_2026_20_non_market_housing
 
 - title: "FileJanitor"
   description: "FileJanitor is a package that cleans, standardizes, and organizes file names and folder structures. Its goal is to automate common file system tasks, so the user can keep their documents tidy."
@@ -13,11 +23,5 @@
   categories: [Python, Package, Data Cleaning]
   date: 2026-02-01
   author: Sam Lokanc, Sean Brown, Rabin Duran, Luis Alonso Alvarez
-
-- title: "Vancouver Non Market Housing Dashboard"
-  description: "This dashboard displays information regarding non-market housing projects in Vancouver."
-  image: "/images/nonmarket-housing-thumbnail.jpg"
-  path: https://019c962d-6a7d-25ba-ce46-92dc73941290.share.connect.posit.cloud/
-  categories: [Data Visualization, Dashboard]
-  date: 2026-03-17
-  author: Sam Lokanc, Julia Zhang, Yuting Ji, Ralah Aaqil
+  deployment: https://test.pypi.org/project/FileJanitor/
+  github: https://github.com/UBC-MDS/DSCI_524_FileJanitor

@@ -2,8 +2,9 @@
 title: Projects
 listing:
     type: grid
-    categories: true
     grid-columns: 2
     contents: 
         - "projects/*"
+    template: custom.ejs
+    fields: [title, description, image, path, categories, date, author, deployment, github, deployment-icon]
 ---

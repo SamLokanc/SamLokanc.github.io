@@ -5,3 +5,29 @@ $body-bg: #1A1A1A;
 $body-color: #FEFCEE;
 $headings-color: #567F69;
 $font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$light: #908A7A;
+
+/*-- scss:rules --*/
+button.btn-light,
+a.btn-light {
+  color: #FEFCEE;
+}
+
+button.btn-primary,
+a.btn-primary {
+    color: #FEFCEE
+}
+
+button.btn-light:hover,
+a.btn-light:hover {
+  color: #1A1A1A;
+}
+button.btn-primary:hover,
+a.btn-primary:hover {
+  color: #1A1A1A;
+}
+
+.badge.bg-dark {
+  background-color: #8EAC9C !important;
+  color: #302929
+}
