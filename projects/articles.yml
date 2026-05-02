@@ -4,7 +4,7 @@
   categories: [Data Pipeline, Bash, R, Python]
   date: 2026-01-29
   author: Sam Lokanc, et al.
-  deployment: https://pubmed.ncbi.nlm.nih.gov/41616493/
+  deployment: https://doi.org/10.1016/j.humimm.2026.111671
   deployment-icon: "bi-file-text"
 
 - title: "Vancouver Non Market Housing Dashboard"
