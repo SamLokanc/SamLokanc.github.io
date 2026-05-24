@@ -7,7 +7,7 @@
   deployment: https://doi.org/10.1016/j.humimm.2026.111671
   deployment-icon: "bi-file-text"
 
-- title: "Vancouver Non Market Housing Dashboard"
+- title: "Vancouver Non-Market Housing Dashboard"
   description: "This dashboard displays information regarding non-market housing projects in Vancouver."
   image: "/images/nonmarket-housing-thumbnail.jpg"
   categories: [Data Visualization, Dashboard]
