@@ -7,8 +7,6 @@ about:
   image-shape: round
 
   links:
-    - icon: linkedin
-      text: LinkedIn
     - icon: github
       text: GitHub
       href: https://github.com/SamLokanc
