@@ -1,14 +1,23 @@
-- title: "Gene alterations in inborn errors of immunity and their presence in cancers"
+- title: "Gene Alterations in Inborn Errors of Immunity and their Presence in Cancers"
   description: "This study investigated IEI-related differential gene expression by examining the somatic transcriptomes of cancers."
   image: "/images/IEI-thumbnail.jpg"
-  categories: [Data Pipeline, Bash, R, Python]
+  categories: [Data Pipeline, Bash, R, Python, Transcriptomic Analysis]
   date: 2026-01-29
   author: Sam Lokanc, et al.
   deployment: https://doi.org/10.1016/j.humimm.2026.111671
   deployment-icon: "bi-file-text"
 
+- title: "Generation of Immune Stimulating Peptides (ISPs) for Refractory and Recurrent Pediatric Cancers"
+  description: "This study involved employing machine learning algorithms to design peptide vaccines for ependymoma. Completed as an honours thesis at the University of Calgary."
+  image: "/images/honours_thesis_thumbnail.jpg"
+  categories: [Machine Learning, Data Pipeline, Python, Transcriptomic Analysis]
+  date: 2024-03-01
+  author: Sam Lokanc
+  deployment: pdfs/honours_thesis.pdf
+  deployment-icon: "bi-file-text"
+
 - title: "Vancouver Non-Market Housing Dashboard"
-  description: "This dashboard displays information regarding non-market housing projects in Vancouver."
+  description: "A dashboard displaying information regarding non-market housing projects in Vancouver."
   image: "/images/nonmarket-housing-thumbnail.jpg"
   categories: [Data Visualization, Dashboard]
   date: 2026-03-17
