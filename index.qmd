@@ -7,6 +7,9 @@ about:
   image-shape: round
 
   links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samuel-lokanc-aa1685299/
     - icon: github
       text: GitHub
       href: https://github.com/SamLokanc
